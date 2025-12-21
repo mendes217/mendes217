@@ -52,6 +52,11 @@ Sempre estudando novas tecnologias, padrões e boas práticas para evoluir como 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mendes217&layout=compact&theme=dark)
 
 --- 
+### 📒 Estudando
+- Especializaçao em Engenharia de Software.
+- inglês
+- Aws DevOps
+- Angular
 
 
 
