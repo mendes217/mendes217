@@ -34,6 +34,7 @@ Estou sempre em busca de novas técnicas para resolver problemas complexos de fo
 - <img align="center" alt="nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> – Desenvolvimento orientado a objetos e sistemas corporativos  
 - <img align="center" alt="nathan-c" width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> – Compreensão profunda de lógica, memória e performance  
 
+- <img align="center" alt="nathan-Sql" width="30" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> – Entendimento de estruturas de dados e armazenamento de informaçoes
 ### 🌐 Web & Fundamentos
 -  <img align="center" alt="nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> – Lógica de programação e dinamismo
 
