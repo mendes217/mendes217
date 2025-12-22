@@ -5,7 +5,7 @@
 - inglês
 ---
 
-📒 Formado em **Análise e Desenvolvimento de Sistemas**  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 
 💻 Desenvolvedor com foco em **Back-end**
 
