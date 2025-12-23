@@ -35,7 +35,7 @@ Estou sempre em busca de novas técnicas para resolver problemas complexos de fo
 ### 🛠️ Tecnologias e Ferramentas
 
 ### 🔧 Back-End
--  <img align="center" alt="nathan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> / .NET** – Construção de APIs e aplicações escaláveis  
+-  <img align="center" alt="nathan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> **/ .NET** – Construção de APIs e aplicações escaláveis  
 
 - <img align="center" alt="nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> – Desenvolvimento orientado a objetos e sistemas corporativos  
 - <img align="center" alt="nathan-c" width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> – Compreensão profunda de lógica, memória e performance  
