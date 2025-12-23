@@ -1,38 +1,38 @@
 # 👋 Olá, eu sou Nathan Mendes
----
+
 ### 📒 Estudando
 - Especializaçao em Engenharia de Software.
 - inglês
----
+
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 
 💻 Desenvolvedor com foco em **Back-end**
 
----
 
-## 👨‍💻 Sobre Mim
+
+### 👨‍💻 Sobre Mim
 
 Sou um desenvolvedor focado em **Back-end** que acredita na **melhoria contínua**.  
 Mais do que apenas escrever código, busco compreender **boas práticas de design**, **padrões de projeto** e **arquitetura de software** para entregar soluções eficientes, organizadas e escaláveis.
 
----
 
-## 🎯 Objetivo Atual
+
+### 🎯 Objetivo Atual
 
 Aprimorar meus conhecimentos em tecnologias de desenvolvimento e **ingressar no mercado como desenvolvedor**, aplicando boas práticas e aprendizado contínuo em projetos reais.
 
----
 
-## 💡 Mentalidade
+
+### 💡 Mentalidade
 
 > **"Aprender, aplicar e refinar."**
 
 Estou sempre em busca de novas técnicas para resolver problemas complexos de forma simples, eficiente e bem estruturada.
 
----
 
-## 🛠️ Tecnologias e Ferramentas
+
+### 🛠️ Tecnologias e Ferramentas
 
 ### 🔧 Back-End
 -  <img align="center" alt="nathan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> / .NET** – Construção de APIs e aplicações escaláveis  
@@ -48,7 +48,7 @@ Estou sempre em busca de novas técnicas para resolver problemas complexos de fo
 
 ---
 
-## 🚀 Em constante evolução
+### 🚀 Em constante evolução
 
 Sempre estudando novas tecnologias, padrões e boas práticas para evoluir como profissional e entregar soluções cada vez melhores.
 
