@@ -30,7 +30,12 @@ Aprimorar meus conhecimentos em tecnologias de desenvolvimento e **ingressar no 
 
 Estou sempre em busca de novas técnicas para resolver problemas complexos de forma simples, eficiente e bem estruturada.
 
-
+### 🧪 Conhecimentos
+- .Net Framework
+- POO(Programaçao orientada ao objeto).
+- Desenvolvimento de Api Rest.
+- Estrutura de Dados (Arrays, List, Stacks, Queues).
+- Pardrões MVC, Microservices, Solid.
 
 ### 🛠️ Tecnologias e Ferramentas
 
