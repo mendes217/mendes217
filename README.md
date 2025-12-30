@@ -54,7 +54,8 @@ Sempre estudando novas tecnologias, padrões e boas práticas para evoluir como 
 
 ### 📊 Estatísticas do GitHub
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=mendes217&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mendes217&show_icons=true&theme=dark)
+
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mendes217&layout=compact&theme=dark)
 
