@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Nathan Mendes
 
-### 📒 Estudando
+### 📒 Estudando Atualmente
 - Especializaçao em Engenharia de Software.
 - inglês
 
@@ -46,7 +46,7 @@ Estou sempre em busca de novas técnicas para resolver problemas complexos de fo
 
 - <img align="center" alt="nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> – Estruturação de conteúdo e integração com front-end  
 
----
+
 
 ### 🚀 Em constante evolução
 
@@ -54,12 +54,13 @@ Sempre estudando novas tecnologias, padrões e boas práticas para evoluir como 
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mendes217&show_icons=true&theme=dark)
+<div align="leaft">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mendes217&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mendes217&layout=compact&theme=dark)
 
---- 
 
 
 
