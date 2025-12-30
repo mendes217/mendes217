@@ -37,20 +37,17 @@ Estou sempre em busca de novas técnicas para resolver problemas complexos de fo
 - Estrutura de Dados (Arrays, List, Stacks, Queues).
 - Pardrões MVC, Microservices, Solid.
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-### 🔧 Back-End
--  <img align="center" alt="nathan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> **/ .NET** – Construção de APIs e aplicações escaláveis  
 
-- <img align="center" alt="nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> – Desenvolvimento orientado a objetos e sistemas corporativos  
-- <img align="center" alt="nathan-c" width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> – Compreensão profunda de lógica, memória e performance  
-
-- <img align="center" alt="nathan-Sql" width="30" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/> – Entendimento de estruturas de dados e armazenamento de informaçoes
-### 🌐 Web & Fundamentos
--  <img align="center" alt="nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> – Lógica de programação e dinamismo
-
-- <img align="center" alt="nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> – Estruturação de conteúdo e integração com front-end  
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 
 ### 🚀 Em constante evolução
